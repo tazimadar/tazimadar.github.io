@@ -1,0 +1,12 @@
+C:\Users\Trainer 402\Desktop\CV\CV\bin\CV.dll.config
+C:\Users\Trainer 402\Desktop\CV\CV\bin\CV.dll
+C:\Users\Trainer 402\Desktop\CV\CV\bin\CV.pdb
+C:\Users\Trainer 402\Desktop\CV\CV\obj\Debug\CV.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\CV\CV\obj\Debug\CV.dll
+C:\Users\Trainer 402\Desktop\CV\CV\obj\Debug\CV.pdb
+H:\DOT NET\CV\CV\bin\CV.dll.config
+H:\DOT NET\CV\CV\bin\CV.dll
+H:\DOT NET\CV\CV\bin\CV.pdb
+H:\DOT NET\CV\CV\obj\Debug\CV.csprojResolveAssemblyReference.cache
+H:\DOT NET\CV\CV\obj\Debug\CV.dll
+H:\DOT NET\CV\CV\obj\Debug\CV.pdb
